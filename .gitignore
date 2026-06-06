@@ -1,0 +1,10 @@
+VisDrone2019-MOT-val/
+datasets/
+runs/
+outputs/
+*.mp4
+*.avi
+*.pt
+*.pth
+*.onnx
+__pycache__/
